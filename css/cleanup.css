@@ -37,22 +37,8 @@ div#wall div.parent div div#tag-6 {
   display: none;
 }
 
-div#wall div.parent div > #tag-7.slick {
+#wall div.parent div > #tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
   z-index: 1;
   display: none;
 }
-  
-
-/*#wall #tag-3.slick.wicked {
-  display:none;
-}
-.parent #tag-4 {
-  display:none;
-}
-#wall .parent #tag-5.slick {
-  display: none;
-}
-#tag-6 {
-  display:none;
-}*/
